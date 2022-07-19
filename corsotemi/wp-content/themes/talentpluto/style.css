@@ -1,0 +1,66 @@
+/*
+Theme name: Talent Pluto
+Author: Alex Grottola
+Version: 1.0
+Theme URI: https://www.alexgrottola.com
+Author URI: https://www.alexgrottola.com
+Description: Tema Classico del corso Webdeveloper Wordpress
+Lincense: MIT
+Text Domain: talentpluto
+*/
+
+
+
+#menu-header > .menu-item > a {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+.alignwide{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.alignfull {
+	margin: 0px calc(50% - 50vw);
+	max-width: 100vw;
+	width: 100vw;
+}
+
+.wp-container-29 > * + * {
+	margin-block-start: 0px!important;
+	margin-block-end: 0;
+  }
+
+.wp-container-19, .wp-container-15 {
+	gap: 0px!important;
+}
+
+.wp-block-cover-image .wp-block-cover__inner-container, .wp-block-cover .wp-block-cover__inner-container {
+    width: 40%!important;
+    z-index: 1;
+    color: #fff;
+}
+
+.img-blog-article{
+
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+.is-style-rounded > figure > img {
+
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+
+}
+
+
+

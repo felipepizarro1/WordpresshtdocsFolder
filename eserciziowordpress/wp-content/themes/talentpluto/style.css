@@ -1,0 +1,17 @@
+/*
+Theme name: Talent Pluto
+Author: Alex Grottola
+Version: 1.0
+Theme URI: https://www.alexgrottola.com
+Author URI: https://www.alexgrottola.com
+Description: Tema Classico del corso Webdeveloper Wordpress
+Lincense: MIT
+Text Domain: talentpluto
+*/
+
+#menu-header > .menu-item > a {
+
+    text-decoration: none;
+    color: black;
+
+}
