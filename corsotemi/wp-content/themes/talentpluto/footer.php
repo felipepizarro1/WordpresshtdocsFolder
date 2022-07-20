@@ -1,6 +1,6 @@
-<footer id="site-footer" class="py-5 text-center">
+<footer id="site-footer" class="py-5 text-center d-none">
 
-    <p>SITO CREATO DA ALEX GROTTOLA</p>
+    <p>SITO CREATO DA Felipe</p>
 
 </footer>
 <!-- JavaScript Bundle with Popper -->
